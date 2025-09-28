@@ -18,8 +18,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=FATMANUR_KULLANICI_ADIN&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FATMANUR_KULLANICI_ADIN&layout=compact&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=FatmanurkaratassN&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatmanurkaratass&layout=compact&theme=radical)
 
 ---
 
