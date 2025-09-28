@@ -18,7 +18,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=FatmanurkaratassN&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Fatmanurkaratass&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatmanurkaratass&layout=compact&theme=radical)
 
 ---
