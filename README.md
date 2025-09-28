@@ -1,7 +1,7 @@
 # 👋 Merhaba, Ben Fatma Nur KARATAŞ
 
 ## 🌐 Sosyal Medya
-[![LinkedIn](https://www.linkedin.com/in/fatma-nur-k-62a800253/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fatma-nur-k-62a800253/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurkaratass26@gmail.com)
 
 ## 💻 Tech Stack
